@@ -18,7 +18,7 @@ Have fun learning about the Frogs of Steele Creek Park and Python programming us
 <a href="https://www.bristoltn.org/166/Steele-Creek-Park">Steel Creek Park Website</a>
 <a href="https://maps.app.goo.gl/NuSGCce9vAFTKjiq6">Google Maps</a>
 <a href="https://www.inaturalist.org/places/130630">iNaturalist</a>
-<a href="https://www.friendsofsteelecreek.org/">Friends of Steel Creek Nature Center and Park</a>
+<a href="https://www.friendsofsteelecreek.org/">Friends of Steele Creek Nature Center and Park</a>
 
 
 # Acknowledgements
