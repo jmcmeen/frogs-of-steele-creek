@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for the Frogs of Steele Creek Park in 
 
 So why do these frogs have their own GitHub repo? Well, it's because their behavior is being studied using artificial intelligence and machine learning techniques! This repository is an interactive overview of the methods and discoveries made at Steele Creek Park! 
 
-This repo is a work in progress and is expected to reach a complete version by June 2024!
+This repo is a work in progress and is expected to reach a complete version by Spring 2024!
 
 ![Spring Peeper](data/images/spring-peeper.jpg)
 <i>Spring Peeper (Pseudacris crucifer) at Steele Creek Park Feb. 2023</i>
