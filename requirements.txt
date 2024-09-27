@@ -2,3 +2,7 @@ numpy==1.26.4
 wandb==0.13.11
 opensoundscape==0.10.2
 pyinaturalist==0.19.0
+geopy==2.4.1
+geopandas==1.0.1
+folium==0.17.0
+mapclassify==2.8.1
