@@ -1,2 +1,3 @@
+numpy==1.26.4
 wandb==0.13.11
 opensoundscape==0.10.2
