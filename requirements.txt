@@ -1,9 +1,2 @@
-pandas
-geopandas
-geopy
-folium
-mapclassify
-novus-pytils
-pyinaturalist
-pydub
-opensoundscape
+wandb==0.13.11
+opensoundscape==0.10.2
