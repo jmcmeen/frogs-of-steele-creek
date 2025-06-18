@@ -7,4 +7,5 @@ geopy==2.4.1
 geopandas==1.0.1
 folium==0.17.0
 mapclassify==2.8.1
+notebook
 novus-pytils
