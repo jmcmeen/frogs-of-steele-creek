@@ -23,7 +23,6 @@ pip install -r requirements.txt
 # Publications
 Jessee, L., Stout, J., & McMeen, J. (2022). Herpetofauna of Steele Creek Park (Sullivan County, TN), with Comments on Species–Area Relationships of Amphibians and Reptiles in Eastern Tennessee. Southeastern Naturalist 21(1). [https://doi.org/10.1656/058.021.0110](https://doi.org/10.1656/058.021.0110)
 
-
 Stout, J., Jessee, L., & McMeen, J. (2025). Nested and Island Models for Determining the Species-Area Relationship of Southern Appalachian Amphibians. Journal of North American Herpetology, 2025(1). [https://doi.org/10.17161/jnah.v2025i1.21974](https://doi.org/10.17161/jnah.v2025i1.21974)
 
 # Links
