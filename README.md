@@ -2,17 +2,29 @@
 
 Welcome to the official GitHub repository for the Frogs of Steele Creek Park in Bristol, TN.
 
-So why do these frogs have their own GitHub repo? Well, it's because their behavior is being studied using artificial intelligence and machine learning techniques! This repository is an interactive overview of the methods and discoveries made at Steele Creek Park! 
-
-This repo is a work in progress, please check back often!
+So why do these frogs have their own GitHub repo? Well, it's because their behavior is being studied using artificial intelligence and machine learning techniques. This repository is an interactive overview of the methods and discoveries made at Steele Creek Park.
 
 ![Spring Peeper](data/images/spring-peeper.jpg)
 <i>Spring Peeper (Pseudacris crucifer) at Steele Creek Park Feb. 2023</i>
 
-Have fun learning about the Frogs of Steele Creek Park and Python programming using the Jupyter Notebooks in this repository! All code has been tested using Python 3.11.8.
+Have fun learning about the Frogs of Steele Creek Park and Python programming using the Jupyter Notebooks in this repository! All code has been tested using Python 3.11+
 
+# Getting Started
+With Python installed we recommend creating a virtual environment. Open a terminal prompt and navigate to this repositories directory on your system. To create the vritual environment, run:
+```
+python3 -m venv venv
+source venv/bin/activate  
+# On Windows: venv\Scripts\activate
+```
+To install the dependencies for this project in your virtual environment, run the following.
+```
+pip install -r requirements.txt
+```
 # Publications
-- [Herpetofauna of Steele Creek Park (Sullivan County, TN), with Comments on Species–Area Relationships of Amphibians and Reptiles in Eastern Tennessee](https://bioone.org/journals/southeastern-naturalist/volume-21/issue-1/058.021.0110/Herpetofauna-of-Steele-Creek-Park-Sullivan-County-TN-with-Comments/10.1656/058.021.0110.short) - (Jessee, et al. 2023)
+Jessee, L., Stout, J., & McMeen, J. (2022). Herpetofauna of Steele Creek Park (Sullivan County, TN), with Comments on Species–Area Relationships of Amphibians and Reptiles in Eastern Tennessee. Southeastern Naturalist 21(1). [https://doi.org/10.1656/058.021.0110](https://doi.org/10.1656/058.021.0110)
+
+
+Stout, J., Jessee, L., & McMeen, J. (2025). Nested and Island Models for Determining the Species-Area Relationship of Southern Appalachian Amphibians. Journal of North American Herpetology, 2025(1). [https://doi.org/10.17161/jnah.v2025i1.21974](https://doi.org/10.17161/jnah.v2025i1.21974)
 
 # Links
 - [Steele Creek Park Website](https://www.bristoltn.org/166/Steele-Creek-Park)
